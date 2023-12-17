@@ -17,3 +17,15 @@ Hello World from thread 6
 >>> Message from main thread: Number of threads = 8
 Hello World from thread 0
 ```
+
+## MPI
+
+testing MPI environment:
+
+#TODO
+
+## MPI+OpemMP Mix
+
+testing MPI+OpenMP mixed environment:
+
+#TODO
